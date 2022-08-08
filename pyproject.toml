@@ -34,7 +34,7 @@ pytest = "^6.2.5"
 pytest-cov = "^3.0.0"
 pre-commit = "^2.15.0"
 mock = "^4.0.3"
-mkautodoc = "^0.1.0"
+mkautodoc = "^0.2.0"
 mkdocs-material = "^8.1.4"
 
 
