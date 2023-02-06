@@ -26,7 +26,7 @@ include = ["LICENSE"]
 python = "^3.7"
 
 [tool.poetry.dev-dependencies]
-black = {version = "^21.9b0", allow-prereleases = true}
+black = {version = "^23.1", allow-prereleases = true}
 mypy = "^0.930"
 isort = "^5.9.3"
 flake8 = "^4.0.1"
